@@ -1,0 +1,7 @@
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\bin\Debug\Laboratorio 6 MatíasBustos.exe.config
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\bin\Debug\Laboratorio 6 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\bin\Debug\Laboratorio 6 MatíasBustos.pdb
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\obj\Debug\Laboratorio 6 MatíasBustos.csprojAssemblyReference.cache
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\obj\Debug\Laboratorio 6 MatíasBustos.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\obj\Debug\Laboratorio 6 MatíasBustos.exe
+C:\Users\SEBASTIÁN\Desktop\Laboratorio 6 MatíasBustos\Laboratorio 6 MatíasBustos\obj\Debug\Laboratorio 6 MatíasBustos.pdb
